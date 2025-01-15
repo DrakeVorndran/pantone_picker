@@ -1,0 +1,15 @@
+.preview {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#best-colors {
+    display: flex;
+    flex-wrap: wrap;
+
+}
